@@ -1,2 +1,3 @@
-# Netflix-Data-Analysis-
-This project explores the Netflix dataset to uncover trends in movies and TV shows 
+🎬 Netflix Data Analysis
+
+A data analysis project exploring Netflix's catalog of movies and TV shows, uncovering trends, patterns, and insights using Python, Pandas, Matplotlib, and Seaborn.
